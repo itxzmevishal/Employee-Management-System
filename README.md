@@ -30,17 +30,12 @@ It is ideal for small to medium businesses looking for a simple, user-friendly, 
 ## Screenshots
 
 **Dashboard Example:**  
-![Dashboard Screenshot](https://via.placeholder.com/800x400?text=Dashboard+Screenshot)
+![Dashboard Screenshot](https://drive.google.com/file/d/1YKFws8Os1tZ2b5cGS_y1MPP600Zd-Se0/view?usp=sharing)
 
 **Add Employee Form:**  
 ![Add Employee Screenshot](https://drive.google.com/file/d/1HEcEQe7tp5MCM2dKekHBUGPGjjgaVUFP/view?usp=drive_link)
 
 **Edit Employee Form:**  
-![Edit Employee Screenshot](https://via.placeholder.com/800x400?text=Edit+Employee+Form)
-
-**GIF Example of CRUD:**  
-![CRUD Operations GIF](https://via.placeholder.com/800x400?text=CRUD+Operations+GIF)
-
-> Replace placeholder links with your actual screenshots and GIFs.
+![Edit Employee Screenshot](https://drive.google.com/file/d/1rA4339OA4vmJZjstZl7PqDey3qqwROq6/view?usp=sharing)
 
 ---
