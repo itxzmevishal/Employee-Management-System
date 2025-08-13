@@ -33,7 +33,7 @@ It is ideal for small to medium businesses looking for a simple, user-friendly, 
 ![Dashboard Screenshot](https://drive.google.com/file/d/1YKFws8Os1tZ2b5cGS_y1MPP600Zd-Se0/view?usp=sharing)
 
 **Add Employee Form:**  
-![Add Employee Screenshot](https://drive.google.com/file/d/1HEcEQe7tp5MCM2dKekHBUGPGjjgaVUFP/view?usp=drive_link)
+![Add Employee Screenshot](https://github.com/itxzmevishal/Employee-Management-System/blob/d30e51feffa64f5a06c54b0c21f1bc69a2495268/screenshots/Add-e.png)
 
 **Edit Employee Form:**  
 ![Edit Employee Screenshot](https://drive.google.com/file/d/1rA4339OA4vmJZjstZl7PqDey3qqwROq6/view?usp=sharing)
