@@ -55,3 +55,62 @@ It is ideal for small to medium businesses looking for a simple, user-friendly, 
    git clone https://github.com/itxzmevishal/employee-management-system.git
    cd employee-management-system
    ```
+
+## Installation
+
+Install backend dependencies:
+cd backend
+npm install
+
+Setup MySQL Database:
+Create a database named employee_management.
+Import the SQL schema from database.sql (provided in the repo).
+
+Configure environment variables:
+Create a .env file in the backend folder:
+DB_HOST=localhost
+DB_USER=root
+DB_PASSWORD=yourpassword
+DB_NAME=employee_management
+PORT=5000
+
+Start the backend server:
+npm start
+Or, with nodemon:
+nodemon server.js
+
+Install frontend dependencies and start React app:
+cd ../frontend
+npm install
+npm start
+
+Open your browser at http://localhost:3000 to access the application.
+
+## Usage
+
+Navigate to the dashboard to view all employees.
+Use Add Employee form to insert new records.
+Click Edit on any employee row to update details.
+Use Delete to remove employees.
+Use the search bar to filter employees by Name, ID, or Designation.
+
+## Contributing
+
+Contributions are welcome! To contribute:
+Fork the repository.
+Create a new branch (git checkout -b feature-name).
+Make your changes and commit them (git commit -m 'Add feature').
+Push to the branch (git push origin feature-name).
+Open a Pull Request describing your changes.
+
+## License
+
+This project is licensed under the MIT License. See LICENSE for details.
+
+## Contact
+
+GitHub: https://github.com/itxzmevishal
+Email: sanapvishal128@gmail.com
+LinkedIn: https://www.linkedin.com/in/vishal-sanap-/
+
+---
