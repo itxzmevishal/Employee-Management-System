@@ -3,22 +3,16 @@
 
 
 1. OS: Windows/Linux/macOS
-   
 2. Backend: Node.js, Express.js
-   
 3. Database: MySQL, MySQL Workbench
-   
 4. Frontend: React, Bootstrap, JavaScript, HTML/CSS
-   
 5. IDE: VS Code
-   
 6. API Testing: Postman/Thunder Client
-   
 7. version control: git
 
 
 
-------------------------------------------------------------------------------------------------------------
+---
 
 
 
@@ -231,6 +225,10 @@ Install in your project folder:
 
 
 npm install express
+
+
+
+npm run dev
 
 
 
