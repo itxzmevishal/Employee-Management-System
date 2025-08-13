@@ -109,8 +109,8 @@ This project is licensed under the MIT License. See LICENSE for details.
 
 ## Contact
 
-GitHub: https://github.com/itxzmevishal
-Email: sanapvishal128@gmail.com
+GitHub: https://github.com/itxzmevishal .
+Email: sanapvishal128@gmail.com .
 LinkedIn: https://www.linkedin.com/in/vishal-sanap-/
 
 ---
