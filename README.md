@@ -39,3 +39,19 @@ It is ideal for small to medium businesses looking for a simple, user-friendly, 
 ![Edit Employee Screenshot](https://drive.google.com/file/d/1rA4339OA4vmJZjstZl7PqDey3qqwROq6/view?usp=sharing)
 
 ---
+
+## Installation
+
+### Prerequisites
+
+- Node.js (v18+)
+- MySQL Server
+- Git (for cloning repository)
+
+### Steps
+
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/yourusername/employee-management-system.git
+   cd employee-management-system
+   ```
