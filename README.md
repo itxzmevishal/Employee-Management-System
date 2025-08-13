@@ -36,6 +36,6 @@ It is ideal for small to medium businesses looking for a simple, user-friendly, 
 ![Add Employee Screenshot](https://github.com/itxzmevishal/Employee-Management-System/blob/d30e51feffa64f5a06c54b0c21f1bc69a2495268/screenshots/Add-e.png)
 
 **Edit Employee Form:**  
-![Edit Employee Screenshot](https://drive.google.com/file/d/1rA4339OA4vmJZjstZl7PqDey3qqwROq6/view?usp=sharing)
+![Edit Employee Screenshot](https://github.com/itxzmevishal/Employee-Management-System/blob/305fffb31945235be5d78cc9849d10fea545fc0c/screenshots/Edit-e.png)
 
 ---
