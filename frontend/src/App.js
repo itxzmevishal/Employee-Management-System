@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
+import { BrowserRouter, Routes, Route } from "react-router-dom";
 import Dashboard from "./pages/Dashboard";
 import AddEmployee from "./components/AddEmployee";
 import EditEmployee from "./components/EditEmployee";
@@ -12,7 +12,7 @@ function App() {
   };
 
   return (
-    <Router>
+    <BrowserRouter basename="/Employee-Management-System">
       <Routes>
         <Route
           path="/"
@@ -42,7 +42,7 @@ function App() {
           }
         />
       </Routes>
-    </Router>
+    </BrowserRouter>
   );
 }
 
