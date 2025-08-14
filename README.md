@@ -52,8 +52,8 @@ It is ideal for small to medium businesses looking for a simple, user-friendly, 
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/itxzmevishal/employee-management-system.git
-   cd employee-management-system
+   git clone https://github.com/itxzmevishal/Employee-Management-System.git
+   cd Employee-Management-System
    ```
 
 ## Installation
@@ -63,15 +63,15 @@ cd backend
 npm install
 
 Setup MySQL Database:
-Create a database named employee_management.
+Create a database named employee_db.
 Import the SQL schema from database.sql (provided in the repo).
 
 Configure environment variables:
 Create a .env file in the backend folder:
 DB_HOST=localhost
 DB_USER=root
-DB_PASSWORD=yourpassword
-DB_NAME=employee_management
+DB_PASSWORD=root
+DB_NAME=employee_db
 PORT=5000
 
 Start the backend server:
