@@ -53,7 +53,7 @@ It is ideal for small to medium businesses looking for a simple, user-friendly, 
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/itxzmevishal/Employee-Management-System.git
-   cd employee-management-system
+   cd Employee-Management-System
    ```
 
 ## Installation
