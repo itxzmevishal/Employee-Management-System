@@ -64,7 +64,7 @@ npm install
 
 Setup MySQL Database:
 Create a database named employee_db.
-Import the SQL schema from database.sql (provided in the repo).
+Import the SQL schema from employee_db.sql (provided in the repo).
 
 Configure environment variables:
 Create a .env file in the backend folder:
